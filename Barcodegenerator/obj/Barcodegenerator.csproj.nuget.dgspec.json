@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Clients\\Researches\\Barcodegenerator\\Barcodegenerator\\Barcodegenerator.csproj": {}
+    "D:\\Clients\\Researches\\barcodedotnetcore\\Barcodegenerator\\Barcodegenerator.csproj": {}
   },
   "projects": {
-    "D:\\Clients\\Researches\\Barcodegenerator\\Barcodegenerator\\Barcodegenerator.csproj": {
+    "D:\\Clients\\Researches\\barcodedotnetcore\\Barcodegenerator\\Barcodegenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Clients\\Researches\\Barcodegenerator\\Barcodegenerator\\Barcodegenerator.csproj",
+        "projectUniqueName": "D:\\Clients\\Researches\\barcodedotnetcore\\Barcodegenerator\\Barcodegenerator.csproj",
         "projectName": "Barcodegenerator",
-        "projectPath": "D:\\Clients\\Researches\\Barcodegenerator\\Barcodegenerator\\Barcodegenerator.csproj",
+        "projectPath": "D:\\Clients\\Researches\\barcodedotnetcore\\Barcodegenerator\\Barcodegenerator.csproj",
         "packagesPath": "C:\\Users\\SRAVAN REDDY\\.nuget\\packages\\",
-        "outputPath": "D:\\Clients\\Researches\\Barcodegenerator\\Barcodegenerator\\obj\\",
+        "outputPath": "D:\\Clients\\Researches\\barcodedotnetcore\\Barcodegenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SRAVAN REDDY\\AppData\\Roaming\\NuGet\\NuGet.Config",

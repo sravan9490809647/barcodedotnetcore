@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lXncoLtF4RGwiWft/zLn3y7zlWfqIGkszNfqVie/tfVSYoISQT/N8ODwjFwaLqawtkAJdQgvWt6KJWN/w2bYMg==",
+  "dgSpecHash": "Z0ON+0mf5WYcFK7qgerbUTwwUjwfhC8+3k3XkwJ3w5pEdBBwuDQR4L8SHj2ecAFDSIXE+jc0ZsB3n57i6NFnBg==",
   "success": true,
-  "projectFilePath": "D:\\Clients\\Researches\\Barcodegenerator\\Barcodegenerator\\Barcodegenerator.csproj",
+  "projectFilePath": "D:\\Clients\\Researches\\barcodedotnetcore\\Barcodegenerator\\Barcodegenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SRAVAN REDDY\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\SRAVAN REDDY\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
