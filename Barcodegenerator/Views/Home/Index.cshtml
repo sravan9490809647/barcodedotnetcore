@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    <form method="post" >
+        <label>TagName For Barcode</label> <input type="text" name="BarcodeValue" placeholder="54321" minlength="13" required />
+        <input type="submit" value="Genrate Barcode">
+    </form>
+    <div>
+        <p>Barcode Image is here</p>
+        <img src="data:image/png;base64,@ViewBag.BaseImage" alt="Red dot" />
+        <br>
+        @*<label>@ViewBag.CodeValue</label>*@
+    </div>
+
+</div>
