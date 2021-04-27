@@ -5,7 +5,7 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
 
-    <form method="post" >
+    <form method="post">
         <label>TagName For Barcode</label> <input type="text" name="BarcodeValue" placeholder="54321" minlength="12" required />
         <input type="submit" value="Genrate Barcode">
     </form>
@@ -15,5 +15,5 @@
         <br>
         <label>@ViewBag.CodeValue</label>
     </div>
-
+    <label style="color:red">@ViewBag.Exception</label>
 </div>

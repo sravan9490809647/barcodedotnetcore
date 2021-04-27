@@ -75,6 +75,7 @@ namespace Barcodegenerator.Controllers
             }
             catch(Exception ex)
             {
+                ViewBag.Exception = ex.Message;
                 return View();
             }
         }
